@@ -1,0 +1,37 @@
+
+.card-1{
+    font-size: 0.5rem;
+}
+.card-2{
+font-size: 96px;
+}
+
+@media all and (max-width: 714px) and (min-width : 400px) { 
+
+
+.container{
+    background-color: pink;
+}
+
+}
+
+.spinner-costum{
+    background-color: aqua;
+    width: 3rem !important;
+}
+
+.card-1{
+    background-color: rgb(145, 110, 110);
+    width: 100%;
+
+}
+
+.card-2 {
+    background-color: aqua;
+    width: 100%;
+}
+
+.card-3 {
+    background-color: rgb(196, 37, 37);
+    width: 100%;
+}
